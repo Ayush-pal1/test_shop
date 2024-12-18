@@ -1,0 +1,16 @@
+.crud-app{
+  border: 1px solid green;
+  width: 100%;
+}
+.crud-app tr{
+  /* background-color: #2db69b; */
+  text-align: center;
+}
+
+.crud-app td{
+  padding: 22px 0;
+}
+.crud-app th{
+  padding: 18px 0;
+  background-color: darkgoldenrod;
+}
